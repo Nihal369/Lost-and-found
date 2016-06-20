@@ -51,6 +51,7 @@
         android:text="Select"
         android:background="#4caf50"
         android:id="@+id/button2"
+        android:onClick="getLostDetails"
         android:layout_marginBottom="22dp"
         android:layout_alignParentBottom="true"
         android:layout_alignLeft="@+id/textView2"

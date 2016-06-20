@@ -79,6 +79,7 @@
         android:text="Select"
         android:background="#0277bd"
         android:id="@+id/button3"
+        android:onClick="getFindDetails"
         android:layout_below="@+id/companyInputFound"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="23dp" />

@@ -1,5 +1,6 @@
 package me.nihalismail.picpo;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -22,6 +23,15 @@ public class lostActivity extends AppCompatActivity {
         String colourLost=enteredColourLost.getText().toString();
         String companyLost=enteredCompanyLost.getText().toString();
         String addressLost=enteredAddressLost.getText().toString();
+        Intent lostIntent=new Intent(this,ViewActivity.class);
+        lostIntent.putExtra("lostColour",colourLost);
+        lostIntent.putExtra("lostCompany",companyLost);
+        lostIntent.putExtra("lostAddress",addressLost);
+        lostIntent.putExtra("TypeLost","Lost");
+        Spinner spinner=(Spinner)findViewById(R.id.spinnerLost);
+        String selectedInputOfLostSpinner=spinner.getSelectedItem().toString();
+        lostIntent.putExtra("lostSpinnerData",selectedInputOfLostSpinner);
+        startActivity(lostIntent);
     }
 
 

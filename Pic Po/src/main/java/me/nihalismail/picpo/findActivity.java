@@ -23,9 +23,15 @@ public class findActivity extends AppCompatActivity {
         String colourFind=enteredColourFind.getText().toString();
         String companyFind=enteredCompanyFind.getText().toString();
         String addressFind=enteredAddressFind.getText().toString();
-        Intent i=getIntent();
-        String activeUserName=i.getStringExtra("username");
-        Log.i("Mava",activeUserName);
+        Intent findIntent=new Intent(this,ViewActivity.class);
+        findIntent.putExtra("findColour",colourFind);
+        findIntent.putExtra("findCompany",companyFind);
+        findIntent.putExtra("findAdddress",addressFind);
+        Spinner findSpinner=(Spinner)findViewById(R.id.spinnerFound);
+        String selectedInputOfFindSpinner=findSpinner.getSelectedItem().toString();
+        findIntent.putExtra("findSpinnerData",selectedInputOfFindSpinner);
+        findIntent.putExtra("TypeFind","Find");
+        startActivity(findIntent);
     }
 
     @Override
@@ -36,7 +42,6 @@ public class findActivity extends AppCompatActivity {
         spinnerArray.add("Electronics");
         spinnerArray.add("Wallet");
         spinnerArray.add("Vehicle");
-
         Spinner spinner =(Spinner)findViewById(R.id.spinnerFound);
         ArrayAdapter<String> spinnerArrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, spinnerArray);
         spinner.setAdapter(spinnerArrayAdapter);
