@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="18810703433532"
+    token="7951873559822321433" >
+
+    <task
+        name="javac"
+        duration="1000" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="422" />
+    <task
+        name="verifier"
+        duration="44" />
+
+    <artifact
+        location="C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\outputs\apk\Pic Po-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="18810703433532" >
+        <artifact
+            location="C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\outputs\apk\Pic Po-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

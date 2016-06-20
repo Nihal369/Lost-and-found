@@ -10,13 +10,13 @@
     android:background="#fff"
     android:id="@+id/layout"
     android:onClick="onClick"
-    tools:context="com.parse.starter.LoginActivity">
+    tools:context="me.nihalismail.picpo.starter.LoginActivity">
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:id="@+id/imageView2"
-        android:src="@drawable/pp"
+        android:src="@drawable/lf"
         android:layout_marginTop="45dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"

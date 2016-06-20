@@ -22,6 +22,8 @@ import com.parse.SignUpCallback;
 
 import java.util.List;
 
+import me.nihalismail.picpo.LostnFound;
+
 public class LoginActivity extends Activity implements View.OnClickListener{
 
     boolean loginTag=true;
@@ -49,7 +51,7 @@ public class LoginActivity extends Activity implements View.OnClickListener{
     public void onButtonClick(View view)
     {
         //Log.i("Status",String.valueOf(loginTag));
-        final Intent toUser=new Intent(getApplicationContext(),UsersList.class);
+        final Intent toUser=new Intent(getApplicationContext(),LostnFound.class);
         EditText userNameField = (EditText) findViewById(R.id.userNameField);
         EditText passwordField = (EditText) findViewById(R.id.passwordField);
 /*      userNameField.setKeyListener((KeyListener) this);
@@ -117,11 +119,11 @@ public class LoginActivity extends Activity implements View.OnClickListener{
         textView.setText("Sign Up");
         button.setText("Login");
         Intent toUser=new Intent(getApplicationContext(),UsersList.class);
-       if(ParseUser.getCurrentUser()!=null)
+       /*if(ParseUser.getCurrentUser()!=null)
         {
             startActivity(toUser);
             finish();
-        }
+        }*/
     }
 
     @Override
