@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import me.nihalismail.picpo.starter.R;
+import me.nihalismail.picpo.starter.UsersList;
 
 public class LostnFound extends AppCompatActivity {
 
@@ -42,7 +43,7 @@ public class LostnFound extends AppCompatActivity {
     }
     public void goToPost(View view)
     {
-        Intent toLost=new Intent(getApplicationContext(),PostActivity.class);
+        Intent toLost=new Intent(getApplicationContext(),UsersList.class);
         startActivity(toLost);
     }
 

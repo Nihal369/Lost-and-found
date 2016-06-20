@@ -7,7 +7,17 @@
       </config>
     </shared>
     <layouts>
+      <layout url="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_login.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml">
         <config>
           <theme>@style/AppTheme</theme>
         </config>
@@ -15,10 +25,141 @@
     </layouts>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Grabbed" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c27181c-4ee0-44ee-8e11-eb9f9d11323c" name="Default" comment="" />
+    <list default="true" id="8c27181c-4ee0-44ee-8e11-eb9f9d11323c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/builds/debug/20952071020223/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Pic Po_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Pic Po_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Pic Po_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Pic Po_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_Pic Po_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_Pic Po_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/LostnFound.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/LostnFound.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/findActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/findActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/lostActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/lostActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/LoginActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/MainActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$integer.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$layout.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$menu.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$mipmap.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$string.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$style.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$styleable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/UserFeed.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/UserFeed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/UsersList.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/classes/debug/me/nihalismail/picpo/starter/UsersList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/LostnFound.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/LostnFound.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/findActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/findActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/lostActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/lostActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/LoginActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/MainActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$integer.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$layout.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$menu.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$mipmap.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$string.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$style.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$styleable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/UserFeed.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/UserFeed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/UsersList.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental-verifier/debug/me/nihalismail/picpo/starter/UsersList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/instant-run-support/debug/classes.zip" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/instant-run-support/debug/classes.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/instant-run-support/debug/resources.zip" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/instant-run-support/debug/resources.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/LostnFound.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/LostnFound.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/findActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/findActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/lostActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/lostActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/LoginActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/MainActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$integer.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$layout.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$menu.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$mipmap.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$string.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$style.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$styleable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/UserFeed.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/UserFeed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/UsersList.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/1/5/main/me/nihalismail/picpo/starter/UsersList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/LostnFound$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/LostnFound$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/lostActivity$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/lostActivity$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/LoginActivity$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/LoginActivity$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/MainActivity$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/MainActivity$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/R$drawable$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/R$drawable$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/R$id$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/R$id$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/R$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/R$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/UserFeed$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/UserFeed$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/UsersList$override.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/me/nihalismail/picpo/starter/UsersList$override.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/LoginActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/MainActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$drawable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$id.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$integer.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$layout.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$menu.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$mipmap.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$string.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$style.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$styleable.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/UserFeed.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/UserFeed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/UsersList.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/me/nihalismail/picpo/starter/UsersList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/me/nihalismail/picpo/LostnFound.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/me/nihalismail/picpo/LostnFound.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/me/nihalismail/picpo/findActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/me/nihalismail/picpo/findActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/me/nihalismail/picpo/lostActivity.class" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/me/nihalismail/picpo/lostActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/outputs/apk/Pic Po-debug-unaligned.apk" afterPath="$PROJECT_DIR$/Pic Po/build/outputs/apk/Pic Po-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/outputs/apk/Pic Po-debug.apk" afterPath="$PROJECT_DIR$/Pic Po/build/outputs/apk/Pic Po-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/Pic Po/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/generated/source/r/debug/me/nihalismail/picpo/starter/R.java" afterPath="$PROJECT_DIR$/Pic Po/build/generated/source/r/debug/me/nihalismail/picpo/starter/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/instant-run-support/debug/reload-changes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_find.xml" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_find.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_lost.xml" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_lost.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_lostn_found.xml" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_lostn_found.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_users_list.xml" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/res/merged/debug/layout/activity_users_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/buildId.txt" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" afterPath="$PROJECT_DIR$/Pic Po/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/LostnFound.java" afterPath="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/LostnFound.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java" afterPath="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/lostActivity.java" afterPath="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/lostActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml" afterPath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml" afterPath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml" afterPath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_users_list.xml" afterPath="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_users_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+    </list>
     <ignored path="Lost-and-found.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,33 +178,10 @@
     <favorites_list name="Lost-and-found" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LostnFound.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/LostnFound.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="69" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_lostn_found.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.7841845">
-              <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1690,26 +1808,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_user_feed.xml" />
-        <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_users_list.xml" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_login.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/LoginActivity.java" />
-        <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/lostActivity.java" />
-        <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/ViewActivity.java" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/PostActivity.java" />
-        <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/LostnFound.java" />
+        <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml" />
+        <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml" />
+        <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/lostActivity.java" />
+        <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_users_list.xml" />
         <option value="$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml" />
+        <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/LostnFound.java" />
+        <option value="$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="2174" />
+    <option name="width" value="2182" />
     <option name="height" value="1402" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1737,8 +1857,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1788,9 +1906,83 @@
               <option name="myItemId" value="Pic Po" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lost-and-found" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pic Po" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picpo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lost-and-found" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pic Po" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picpo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lost-and-found" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pic Po" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lost-and-found" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pic Po" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -2081,6 +2273,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8c27181c-4ee0-44ee-8e11-eb9f9d11323c" name="Default" comment="" />
@@ -2091,38 +2286,76 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2174" height="1402" extended-state="0" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32973945" sideWeight="0.498062" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973945" sideWeight="0.501938" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19815892" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19642857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973945" sideWeight="0.498062" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973945" sideWeight="0.501938" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19815892" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2132,26 +2365,84 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_user_feed.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.2637362">
           <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_users_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30492812">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/values/strings.xml">
@@ -2163,43 +2454,42 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.571428">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_login.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_login.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.142858">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2207,73 +2497,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28366762">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.285714">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/UserFeed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/UsersList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1774647">
-          <caret line="130" column="80" selection-start-line="130" selection-start-column="80" selection-end-line="130" selection-end-column="80" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/lostActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2282,28 +2512,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2312,84 +2523,184 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_view.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_view.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/ViewActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_post.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_post.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_post.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/PostActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0-sources.jar!/android/support/v7/app/AppCompatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323782">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2580645">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lost.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.78571427">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_find.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/lostActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_users_list.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.071429">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/LostnFound.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="69" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="1.1774648">
+          <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pic Po/src/main/res/layout/activity_lostn_found.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.7841845">
-          <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.55954826">
+          <caret line="87" column="39" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="39" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.47541">
+          <caret line="89" column="46" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/StarterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/findActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.756447">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/UserFeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5200573">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pic Po/src/main/java/me/nihalismail/picpo/starter/UsersList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5200573">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

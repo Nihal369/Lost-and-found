@@ -17,24 +17,4 @@
         android:layout_alignParentLeft="true"
         />
 
-    <ImageView
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:id="@+id/imageView3"
-        android:src="@drawable/plus"
-        android:onClick="uploadImage"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
-
-    <ImageView
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:id="@+id/imageView4"
-        android:onClick="logout"
-        android:src="@drawable/logout"
-        android:layout_below="@+id/imageView3"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="36dp" />
 </RelativeLayout>

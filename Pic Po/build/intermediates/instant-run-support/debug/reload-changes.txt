@@ -1,15 +1,2 @@
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$menu$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\lostActivity$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\LostnFound$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$layout$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\LoginActivity$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$string$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$styleable$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$style$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$mipmap$override.class
+CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\findActivity$override.class
 CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\UserFeed$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\MainActivity$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\R$override.class
-CHANGED,C:\Users\nihal\Documents\Github\Lost-and-found\Pic Po\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\me\nihalismail\picpo\starter\UsersList$override.class

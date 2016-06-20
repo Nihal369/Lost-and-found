@@ -85,7 +85,7 @@
             android:id="@+id/imageView8"
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
-            android:src="@drawable/post"
+            android:src="@drawable/chat"
             android:onClick="goToPost"
             android:layout_row="1"
             android:layout_column="1" />
